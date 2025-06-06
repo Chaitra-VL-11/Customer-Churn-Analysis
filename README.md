@@ -36,6 +36,7 @@ This project focuses on customer segmentation and churn analysis using python.Th
    * If the recency or Invoice date count is high, it means they haven't made a purchase in a long time, which indicates that customer is likely to churn.
    * Visualize Customer Churn Distribution.
    * we considered 90 days threshold value for each customer, if their purchase history is more than 90 days considered as churned customers.
+   * Churn Rate is 33.61%.
   
 ## When a customer is identified as churned(i.e., they haven't made a purchase in a long time), we should take strategic actions to re-engage them.
 
